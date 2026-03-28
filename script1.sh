@@ -1,4 +1,4 @@
 #!/bin/bash
 
-name = "Swarup"
+name = "Swarup chougule"
 echo "Hello $name"
